@@ -8,5 +8,5 @@ To build the plugin run:
 gradle xlPlugin
 ```
 
-Copy the file build/distributions/MyDemoPlugin-plugin-1.0.xldp in the plugin-1.0.xldp tp copy
+Copy the file build/distributions/MyDemoPlugin-plugin-1.0.xldp in $XL_DEPLOY_DIR/plugins
 
